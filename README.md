@@ -2,11 +2,15 @@
 Write a Line Generate a Movie
 https://mobius.any-vision.com
 -------------------------------
+### Due to GitHub's restriction on uploading files larger than 10MB, only two 5-second video samples are displayed as examples. However, Möbius is now capable of generating 45-second videos
+https://github.com/MobiusAGI/MobiusFeedback_AIVideo/assets/146184643/d68ab3db-8b13-42a3-9c7d-a172385fbf34
+
+https://github.com/MobiusAGI/MobiusFeedback_AIVideo/assets/146184643/4c0faf36-ca81-439c-89a8-d9b81378a29b
+
+
 
 # Part of Community Showcases. 
 In just under 3 days, users on Mobius have produced a total of 100,000 seconds of AI movies.
-
-
 https://github.com/MobiusAGI/MobiusFeedback_AIVideo/assets/146184643/4b0929d8-190a-4ea8-8a69-dc291baae6c8
 
 
@@ -18,7 +22,6 @@ https://github.com/MobiusAGI/MobiusFeedback_AIVideo/assets/146184643/4e244038-66
 
 
 https://github.com/MobiusAGI/MobiusFeedback_AIVideo/assets/146184643/50b7e56e-3138-4b3e-b98d-bdee1fe2156e
-
 
 
 
